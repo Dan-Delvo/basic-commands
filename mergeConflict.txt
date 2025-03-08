@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asqwenkdsvniuheqwrfsadjnfsdjifnc
+=======
+sadaihsdfoasidf
+>>>>>>> mergeConflict
